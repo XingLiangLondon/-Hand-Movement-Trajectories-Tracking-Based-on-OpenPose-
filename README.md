@@ -24,7 +24,7 @@ For the reference, this model has been developed and tested in the the CPU deskt
 - OpenCV 3.3.1   
 
 **for GPU environment the model was implemeted in**
-- Ten-sorflow 1.12
+- Tensorflow 1.12
 - Python 3.6.8
 - OpenCV 3.4.2 
 
