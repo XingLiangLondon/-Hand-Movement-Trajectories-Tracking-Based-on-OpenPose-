@@ -1,6 +1,8 @@
 # Hand Movement Trajectories Tracking (Based on OpenPose Skeleton)
 ## Methodology
-
+To utilise OpenPose library for hand movement trajectory tracking 
+- Firstly please intall the tf-openpose model following the instructions of the link: https://github.com/ildoonet/tf-pose-estimation. Thanks to the amazing work of Ildoo Kim, that translated most code of the OpenPose Library to Python.  
+- Then download the code for hand movenment tracking of this repository. Hopefully you will get the results as shown below. :wink:
 
 
 ## Results
