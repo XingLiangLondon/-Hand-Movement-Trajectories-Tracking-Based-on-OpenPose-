@@ -53,7 +53,7 @@ def plot_trajectories_vstime(center,str):
     xs = [x[0] for x in center]
     ys = [x[1] for x in center]
     ts = [x[2] for x in center]
-    plt.ylim(100,500) #Setting Y axis range (0,360)
+    plt.ylim(0,640) #Setting Y axis range (0,640)
     plt.plot(ts, xs, color='b', marker ='o', label='$X-Trajectory$')
     plt.plot(ts, ys, color='y', marker ='^', label='$Y-Trajectory$')
     plt.xlabel('Time')
