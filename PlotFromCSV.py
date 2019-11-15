@@ -83,8 +83,8 @@ def plot_trajectory_diagrams_right(csv):
 #df_left = pd.read_csv('C:/Users/user/Documents/Dunhill Project/Project Data/Data Preprocessing segmented/3_1/parameters_left.csv')
 #df_right = pd.read_csv('C:/Users/user/Documents/Dunhill Project/Project Data/Data Preprocessing segmented/3_1/parameters_right.csv')
 #
-df_left = pd.read_csv('E:/Dunhill Medical Research Project/Dunhill Project Data/UCL_Tyron/Reduced Size 640x 360/MCI/segmented/0041b/0041b_1/parameters_left.csv')
-df_right = pd.read_csv('E:/Dunhill Medical Research Project/Dunhill Project Data/UCL_Tyron/Reduced Size 640x 360/MCI/segmented/0041b/0041b_1/parameters_right.csv')  
+#df_left = pd.read_csv('E:/Dunhill Medical Research Project/Dunhill Project Data/UCL_Tyron/Reduced Size 640x 360/MCI/segmented/0041b/0041b_1/parameters_left.csv')
+#df_right = pd.read_csv('E:/Dunhill Medical Research Project/Dunhill Project Data/UCL_Tyron/Reduced Size 640x 360/MCI/segmented/0041b/0041b_1/parameters_right.csv')  
 #print("Values of df_left.left:", df_left.values)
-plot_trajectory_diagrams_left(df_left.values)
-plot_trajectory_diagrams_right(df_right.values)
+#plot_trajectory_diagrams_left(df_left.values)
+#plot_trajectory_diagrams_right(df_right.values)
